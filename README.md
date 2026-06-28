@@ -4,7 +4,7 @@
 
 ---
 
-I handle the backend for [**AnimeKaizoku**](https://github.com/AnimeKaizoku): Oracle free-tier VMs, self-hosted services, and Telegram bots in Go and Python.
+building things, breaking things, fixing things.
 
 ---
 
