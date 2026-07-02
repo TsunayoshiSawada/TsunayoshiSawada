@@ -31,9 +31,6 @@ building things, breaking things, fixing things.
 
 <p align="center">
   <a href="https://github.com/TsunayoshiSawada">
-    <img src="https://github-readme-stats.vercel.app/api?username=TsunayoshiSawada&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/TsunayoshiSawada">
     <img src="https://streak-stats.demolab.com/?user=TsunayoshiSawada&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
