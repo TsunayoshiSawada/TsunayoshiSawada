@@ -9,9 +9,7 @@ building things, breaking things, fixing things.
 ---
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=TsunayoshiSawada&theme=cobalt&margin-w=4&margin-h=4&column=4&row=4" alt="TsunayoshiSawada's GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TsunayoshiSawada&theme=cobalt" alt="TsunayoshiSawada's Streak Stats" />
 </p>
 
 ---
